@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thekingBT
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning bca
-- 💞️ I’m looking to collaborate on web development 
+- 🌱 I’m currently learning MCA
+- 💞️ I’m looking to collaborate with Penetration Tester
 - 📫 How to reach me ...
 
 <!---
